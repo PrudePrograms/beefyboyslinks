@@ -22,7 +22,7 @@ disableKinds = ["taxonomy", "term"]
     # { bluesky = "https://bsky.app/profile/username" },
     # { codepen = "https://codepen.io/username" },
     # { dev = "https://dev.to/username" },
-    # { discord = "https://wideboys.win" },
+      { discord = "https://wideboys.win" },
     # { dribbble = "https://dribbble.com/username" },
     # { facebook = "https://facebook.com/username" },
     # { flickr = "https://www.flickr.com/photos/username/" },
@@ -53,9 +53,10 @@ disableKinds = ["taxonomy", "term"]
     # { tiktok = "https://tiktok.com/@username" },
     # { tumblr = "https://username.tumblr.com" },
     # { twitch = "https://twitch.tv/username" },
+    # { kick = "https://kick.com/thebeefyboys" },
     # { twitter = "https://twitter.com/username" },
     # { whatsapp = "https://wa.me/phone-number" },
-    # { x = "https://x.com/username" },
+      { x = "https://x.com/beefiestboys" },
       { youtube = "https://www.youtube.com/@widehaus" },
   ]
 
