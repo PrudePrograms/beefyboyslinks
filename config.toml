@@ -9,7 +9,7 @@ enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [params.author]
-  # name = "The Beef Stream"
+   name = "The Beef Stream"
   # headline = "Known Trendsetters"
    image = "img/thebeefstream.jpg"  # path relative to static directory
 
