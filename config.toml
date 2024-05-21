@@ -1,7 +1,7 @@
 baseURL = "https://beefyboys.win/"
 languageCode = "en"
 defaultContentLanguage = "en"
-
+theme = "lynx"
 title = "The Beef Stream's Links"
 copyright = "Widehaus"
 
