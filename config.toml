@@ -3,14 +3,14 @@ languageCode = "en"
 defaultContentLanguage = "en"
 theme = "lynx"
 title = "The Beef Stream's Links"
-copyright = "© 2024 Widehaus"
+copyright = "© 2024 Widehaus - Maintained by Prude - PalePrude.com"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
 [params.author]
    name = "The Beef Stream"
-   headline = "Known Trendsetters"
+   headline = "Prime Performers"
    image = "img/thebeefstream.jpg"  # path relative to static directory
 
   links = [
