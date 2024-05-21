@@ -1,3 +1,4 @@
+# rumble
 .link-rumble {
     background: rgb(118, 208, 109);
     background: linear-gradient(
@@ -12,6 +13,7 @@
     fill: currentColor;
   }
 
+# wiki 
   .link-wiki {
     background: rgb(0, 0, 0);
     background: linear-gradient(
@@ -25,6 +27,7 @@
     fill: currentColor;
   }
 
+# kofi 
   .link-kofi {
     background: rgb(0, 102, 0);
   }
@@ -32,6 +35,7 @@
     fill: currentColor;
   }
 
+# kit
   .link-kit {
     background: rgb(85, 85, 85);
   }
@@ -39,6 +43,7 @@
     fill: currentColor;
   }
 
+# bluesky
   .link-bluesky {
     background: rgb(191, 236, 255);
     background: linear-gradient(
@@ -53,21 +58,7 @@
     fill: currentColor;
   }
 
-  .link-kofi {
-    background: rgb(0, 102, 0);
-  }
-  path { 
-    fill: currentColor;
-  }
-
-  .link-kit {
-    background: rgb(85, 85, 85);
-  }
-  path { 
-    fill: currentColor;
-  }
-
-
+# rss
   .link-rss {
     background: rgb(255, 178, 45);
   }
