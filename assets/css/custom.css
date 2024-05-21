@@ -3,8 +3,8 @@
     background: linear-gradient(
         135deg,
         rgb(118, 208, 109) 0%,
-        rgb(16, 14, 37) 40%,
-        rgb(16, 14, 37) 60%,
+        rgb(16, 14, 37) 20%,
+        rgb(16, 14, 37) 80%,
         rgb(118, 208, 109) 100% 
     ) 
 }
@@ -13,7 +13,14 @@
   }
 
   .link-wiki {
-    background: rgb(118, 208, 109);
+    background: rgb(0, 0, 0);
+    background: linear-gradient(
+        135deg,
+        rgb(255, 245, 112) 0%,
+        rgb(254, 177, 88) 20%,
+        rgb(255, 66, 59) 80%,
+        rgb(216, 59, 255) 100% 
+    )
   }
   path { 
     fill: currentColor;
