@@ -3,7 +3,7 @@ languageCode = "en"
 defaultContentLanguage = "en"
 theme = "lynx"
 title = "The Beef Stream's Links"
-copyright = "Widehaus"
+copyright = "© 2024 Widehaus"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
