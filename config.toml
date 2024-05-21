@@ -1,4 +1,4 @@
-baseURL = 'https://beefyboys.win/'
+baseURL = "https://beefyboys.win/"
 languageCode = "en"
 defaultContentLanguage = "en"
 theme = "lynx"
