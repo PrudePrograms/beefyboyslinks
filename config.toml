@@ -16,6 +16,7 @@ disableKinds = ["taxonomy", "term"]
   links = [
       { youtube = {href = "https://www.youtube.com/@widehaus", text = "VODs on Youtube"} },
       { kick = {href = "https://kick.com/thebeefyboys", text = "Live Streams on Kick", icon = "kick" } },
+      { rumble = {href = "https://kick.com/thebeefyboys", text = "Spicy Segments on Rumble", icon = "rumble" } },
       { spotify = {href = "https://open.spotify.com/show/5Id3iCvnKG8snbyVgmKRGf", text = "Podcast on Spotify" } },
       { rss = {href = "https://rss.com/podcasts/thebeefyboys/", text = "Podcast on RSS", icon = "rss" } },
       { discord = {href = "https://wideboys.win", text = "Join Our Discord"} },
