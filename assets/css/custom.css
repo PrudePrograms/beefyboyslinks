@@ -65,14 +65,7 @@
   }
 
 .link-kick {
-    background: rgb(255, 178, 45);
-    background: linear-gradient(
-        90deg,
-        rgb(242, 242, 242) 0%,
-        rgb(62, 255, 28) 15%,
-        rgb(62, 255, 28) 85%,
-        rgb(242, 242, 242) 100% 
-    ) 
+    background: rgb(62, 255, 28);
   }
   path { 
     fill: currentColor;
