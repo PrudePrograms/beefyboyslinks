@@ -66,3 +66,11 @@
   path { 
     fill: currentColor;
   }
+
+
+  .link-rss {
+    background: rgb(255, 178, 45);
+  }
+  path { 
+    fill: currentColor;
+  }
