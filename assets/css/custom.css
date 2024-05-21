@@ -1,5 +1,28 @@
 .link-rumble {
     background: rgb(118, 208, 109);
+  }
+  path { 
+    fill: currentColor;
+  }
+
+  .link-kofi {
+    background: rgb(0, 102, 0);
+  }
+  path { 
+    fill: currentColor;
+  }
+
+  .link-kit {
+    background: rgb(85, 85, 85);
+  }
+  path { 
+    fill: currentColor;
+  }
+
+
+
+  .link-bluesky {
+    background: rgb(191, 236, 255);
     background: linear-gradient(
       135deg,
       rgb(120, 200, 255) 0%,
