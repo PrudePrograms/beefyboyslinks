@@ -10,7 +10,7 @@ disableKinds = ["taxonomy", "term"]
 
 [params.author]
    name = "The Beef Stream"
-  # headline = "Known Trendsetters"
+   headline = "Known Trendsetters"
    image = "img/thebeefstream.jpg"  # path relative to static directory
 
   links = [
@@ -63,3 +63,6 @@ disableKinds = ["taxonomy", "term"]
   [module.hugoVersion]
     extended = false
     min = "0.86.1"
+
+[params]
+favicon = "img/favicon.png"
