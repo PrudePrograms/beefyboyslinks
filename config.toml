@@ -15,7 +15,7 @@ disableKinds = ["taxonomy", "term"]
 
   links = [
       { youtube = "https://www.youtube.com/@widehaus" },
-      { kick = "https://kick.com/thebeefyboys" },
+      { kick = {href = "https://kick.com/thebeefyboys", text = "Live Streams on Kick", icon = "kick" } },
       { spotify = "https://open.spotify.com/show/5Id3iCvnKG8snbyVgmKRGf" },
       { rss = "https://rss.com/podcasts/thebeefyboys/" },
       { discord = "https://wideboys.win" },
