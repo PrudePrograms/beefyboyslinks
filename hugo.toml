@@ -23,7 +23,7 @@ disableKinds = ["taxonomy", "term"]
     #  { twitter = {href = "https://twitter.com/paleprude", text = "Video Twitter"} },
     #  { kit = {href = "https://kit.co/paleprude", text = "List of the gear that I use.", icon = "kit" } },
     #  { kofi = {href = "https://ko-fi.com/paleprude", text = "Like what I do? I accept tips!😊", icon = "kofi" } },
-    # { link = "https://link-to-some-website.com/" },
+     { link = "https://link-to-some-website.com/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { codepen = "https://codepen.io/username" },
