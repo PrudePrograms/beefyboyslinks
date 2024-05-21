@@ -14,10 +14,10 @@ disableKinds = ["taxonomy", "term"]
    image = "img/thebeefstream.jpg"  # path relative to static directory
 
   links = [
-      { youtube = "https://www.youtube.com/@widehaus" },
+      { youtube = {href = "https://www.youtube.com/@widehaus", text = "VODs on Youtube"} },
       { kick = {href = "https://kick.com/thebeefyboys", text = "Live Streams on Kick", icon = "kick" } },
-      { spotify = "https://open.spotify.com/show/5Id3iCvnKG8snbyVgmKRGf" },
-      { rss = "https://rss.com/podcasts/thebeefyboys/" },
+      { spotify = {href = "https://open.spotify.com/show/5Id3iCvnKG8snbyVgmKRGf", text = "Podcast on Spotify" } },
+      { rss = {href = "https://rss.com/podcasts/thebeefyboys/", text = "Podcast on RSS", icon = "rss" } },
       { discord = "https://wideboys.win" },
       { x = "https://x.com/beefiestboys" },
       { wiki = "https://wideboys.org/" },
