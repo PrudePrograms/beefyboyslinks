@@ -1,0 +1,27 @@
+.link-rumble {
+    background: rgb(118, 208, 109);
+    background: linear-gradient(
+      135deg,
+      rgb(120, 200, 255) 0%,
+      rgb(40, 100, 150) 40%,
+      rgb(40, 100, 150) 60%,
+      rgb(120, 200, 255) 100%
+    );
+  }
+  path { 
+    fill: currentColor;
+  }
+
+  .link-kofi {
+    background: rgb(0, 102, 0);
+  }
+  path { 
+    fill: currentColor;
+  }
+
+  .link-kit {
+    background: rgb(85, 85, 85);
+  }
+  path { 
+    fill: currentColor;
+  }
