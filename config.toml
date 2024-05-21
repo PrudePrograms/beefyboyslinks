@@ -1,9 +1,9 @@
-# baseURL = "https://beefyboys.win/"
+baseURL = "https://beefyboys.win/"
 languageCode = "en"
 defaultContentLanguage = "en"
 
 title = "The Beef Stream's Links"
-# copyright = "Widehaus"
+copyright = "Widehaus"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
