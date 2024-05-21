@@ -3,7 +3,7 @@ languageCode = "en"
 defaultContentLanguage = "en"
 theme = "lynx"
 title = "The Beef Stream's Links"
-copyright = "© 2024 Widehaus - Maintained by Prude - <a href="https://paleprude.com/">PalePrude.com</a>"
+copyright = "© 2024 Widehaus - Maintained by Prude - [PalePrude.com](https://paleprude.com)"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
